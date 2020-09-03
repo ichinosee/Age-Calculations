@@ -10,4 +10,5 @@ The servlet asks the view for the answer from the model. jsp is usually used for
 
 
 
-https://github.com/ichinosee/Age-Calculations.wiki.git
+#demo
+https://github.com/ichinosee/Age-Calculations/issues/1#issue-691721182
